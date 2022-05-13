@@ -1,4 +1,4 @@
-# parra-access-token-node
+# Parra Access Token Node
 
 A utility class for signing Parra Access Token with node.js. 
 For more information on Parra Access Tokens, please visit our [docs](https://docs.parra.io/topics/access-tokens) or check out our [Node.js integration guide](https://docs.parra.io/guides/node) for assistance in integrating with Parra.
